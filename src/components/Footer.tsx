@@ -10,7 +10,7 @@ function Footer() {
         rel="noopener noreferrer"
         className="Button"
       >
-        RAWG API
+        Ecosa
       </a>
     </footer>
   );

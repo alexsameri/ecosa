@@ -4,7 +4,7 @@ import App from './App.tsx'
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import './scss/index.scss';
 import './fonts/GTWalsheimPro/stylesheet.css';
-import './index.css'
+// import './index.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 
