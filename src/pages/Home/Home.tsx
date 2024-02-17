@@ -9,6 +9,8 @@ import {
   Loading,
 } from '../../components';
 import FlowCard from './components/FlowCard';
+import { Information } from '..';
+
 
 
 interface Photo {
@@ -91,6 +93,7 @@ function Home() {
       ) : (
         <Loading />
       )}
+      <Information/>
       <Footer />
     </Transition>
   );
